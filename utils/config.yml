@@ -1,0 +1,6 @@
+database_path: 'utils'
+database_name: 'veracode.db'
+save_log_dir: '/tmp/'
+user: 'user'
+passwd: 'passwd'
+debug: False
