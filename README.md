@@ -19,12 +19,3 @@ pip install -r requirements.txt
 ```
 python veracode-to-splunk.py --config utils/config.yml --output csv
 ```
-
-## Examples
-
-<p align="center">
-  <img src="utils/imgs/01.png">
-</p>
-<p align="center">
-  <img src="utils/imgs/02.png">
-</p>
